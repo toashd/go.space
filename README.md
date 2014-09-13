@@ -18,8 +18,7 @@ The whole app can be build with a simple `make`, that outputs the binaries to
 #### Some thoughts about go packages and how to structure go apps in general
 
 While there are different opinions and many ways to structure go code and apps,
-respectively, go.space is first and foremost one way and possible answer
-achieving this task and intended for small and kind of internal go projects.
+respectively, go.space is just one approach to achieve this task and mainly intended for small and kind of internal go projects.
 
 At the end of the day, structuring your go project heavily depends on the nature
 of your "custom package and/or packages" used within the project.
